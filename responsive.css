@@ -1,0 +1,23 @@
+@media screen and (max-width: 390px ){
+    .main-container{
+        width: 75%;
+        margin: 3dvh auto 10dvh;
+        padding: 8vw;
+    }
+    .main-container li{
+        margin-left: -2dvh;
+    }
+    .main-container div,p{
+        margin-bottom: 4%;
+    }
+
+    .attribution{
+        height: 8dvh;
+    }
+    .prepration-contents li{
+        margin-left: -1vw;
+    }
+    .ingredients-contents li{
+        margin-left: -1;
+    }
+}
